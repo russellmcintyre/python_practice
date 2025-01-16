@@ -1,1 +1,34 @@
-[{'ticker': 'AAPL', 'price': '5,957.49'}, {'ticker': 'TSLA', 'price': '5,959.01'}, {'ticker': 'GOOG', 'price': '5,960.02'}, {'ticker': 'AMZN', 'price': '5,959.63'}, {'ticker': 'MSFT', 'price': '5,957.40'}]
+[
+    {
+        "ticker": "AAPL",
+        "price": "5,956.47"
+    },
+    {
+        "ticker": "TSLA",
+        "price": "5,962.01"
+    },
+    {
+        "ticker": "GOOG",
+        "price": "5,955.66"
+    },
+    {
+        "ticker": "AMZN",
+        "price": "5,955.80"
+    },
+    {
+        "ticker": "MSFT",
+        "price": "5,957.40"
+    },
+    {
+        "ticker": "NFLX",
+        "price": "5,958.94"
+    },
+    {
+        "ticker": "META",
+        "price": "6,002.75"
+    },
+    {
+        "ticker": "NVDA",
+        "price": "5,955.69"
+    }
+]
