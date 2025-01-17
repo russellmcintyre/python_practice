@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TikTok Earnings Analysis</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>TikTok Earnings Analysis</h1>
+    <form id="username-form">
+      <input type="text" id="username" placeholder="Enter TikTok username" required />
+      <button type="submit">Analyze</button>
+    </form>
+    <div id="results">
+      <h2>Analysis</h2>
+      <div id="calendar-view"></div>
+      <canvas id="earnings-chart"></canvas>
+      <div id="totals">
+        <h3>Total Earnings</h3>
+        <p id="weekly-total"></p>
+        <p id="monthly-total"></p>
+      </div>
+    </div>
+  </div>
+  <script src="scripts.js"></script>
+</body>
+</html>
